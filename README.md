@@ -37,14 +37,12 @@ DeepSeek的**开源策略**降低了AI开发门槛，让更多开发者和企业
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3 ) 全面能打，对标4o
 - [deepseek-ai/DeepSeek-VL2: DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://github.com/deepseek-ai/DeepSeek-VL2 ) 视觉大模型
 
-
-
 ---
 ### 🌟 满天都是小星星
 
-[![Star History Chart](https://api.star-history.com/svg?repos=East196/awesome-free-deepseek&type=Date)](https://star-history.com/#East196/awesome-free-deepseek&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=East196/awesome-deepseek&type=Date)](https://star-history.com/#East196/awesome-deepseek&Date)
 
 ### 💞 感谢有你
 
-[![Contributors](https://contrib.rocks/image?repo=East196/awesome-free-deepseek)](https://github.com/East196/awesome-free-deepseek/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=East196/awesome-deepseek)](https://github.com/East196/awesome-deepseek/graphs/contributors)
 
