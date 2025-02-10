@@ -6,7 +6,28 @@
 
 [GitHub 持续更新，欢迎关注，欢迎 star ~](https://github.com/East196/awesome-deepseek)
 
-[TOC]
+- [DeepSeek 资料大全🔥](#deepseek-资料大全)
+  - [一、DeepSeek 基本认知](#一deepseek-基本认知)
+    - [1. 什么是 DeepSeek ?](#1-什么是-deepseek-)
+    - [2. 人类为什么选择 DeepSeek ？](#2-人类为什么选择-deepseek-)
+    - [3. DeepSeek 使用途径](#3-deepseek-使用途径)
+      - [免费资源](#免费资源)
+      - [本地部署](#本地部署)
+      - [三方集成](#三方集成)
+  - [二、DeepSeek 综合教程](#二deepseek-综合教程)
+  - [三、DeepSeek 写作](#三deepseek-写作)
+    - [公众号](#公众号)
+    - [小红书](#小红书)
+    - [今日头条](#今日头条)
+  - [四、DeepSeek 绘画](#四deepseek-绘画)
+    - [1. Janus Pro](#1-janus-pro)
+    - [2. 绘画提示词辅助生成](#2-绘画提示词辅助生成)
+  - [五、DeepSeek 编程](#五deepseek-编程)
+    - [DeepSeek开源全家桶](#deepseek开源全家桶)
+    - [DeepSeek 相关热门开源项目](#deepseek-相关热门开源项目)
+  - [🌟 满天都是小星星](#-满天都是小星星)
+  - [💞 感谢有你](#-感谢有你)
+
 
 ## 一、DeepSeek 基本认知
 
@@ -25,16 +46,23 @@ DeepSeek的**开源策略**降低了AI开发门槛，让更多开发者和企业
 
 ### 3. DeepSeek 使用途径
 - [DeepSeek官网✨](https://chat.deepseek.com/)
+- [DeepSeek 开放平台](https://platform.deepseek.com/usage )
 - [DeepSeek 实用集成](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md ) 将 DeepSeek 大模型能力轻松接入各类软件。**需要API Key，适用于技术人员。**
+
+#### 免费资源
 - [Awesome Free Deepseek👍](https://github.com/East196/awesome-free-deepseek/ ) **普通人也能免费使用**的 DeepSeek 网站列表，持续更新。测评详细。
 - [万物皆可接入DeepSeek，44家接入R1的国产平台超详细大盘点。](https://mp.weixin.qq.com/s/w96jab4RYP_XIZJG1c94lQ ) 厂家全面。
 #### 本地部署
 - [DeepSeek本地部署方式汇总](https://mp.weixin.qq.com/s/MkUj5B5rJFbwtFVWIXY5Jg )
 - [DeepSeek+本地知识库：真的太香了](https://mp.weixin.qq.com/s/IKoBga2iKfpkdD4Qgy8iLg )
+#### 三方集成
+- [DeepSeek 实用集成](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md ) 将 DeepSeek 大模型能力轻松接入各类软件。
+- [DeepSeek接入微信公众号小白保姆教程](https://zhuanlan.zhihu.com/p/20940256320 )
+
 
 ## 二、DeepSeek 综合教程
 - [DeepSeek 15天指导手册（从入门到精通）](https://cloud.tencent.com/developer/news/2145941 ) 入门级
-- [DeepSeek从入门到精通_清华大学](<assets/DeepSeek从入门到精通_清华大学.pdf>) **专业级**
+- [DeepSeek从入门到精通](<assets/DeepSeek从入门到精通_清华大学.pdf>) **清华大学出品，专业级解读**
 
 
 ## [三、DeepSeek 写作](deepseek-write.md)
@@ -53,8 +81,18 @@ DeepSeek的**开源策略**降低了AI开发门槛，让更多开发者和企业
 ### 今日头条
 [用deepseek做今日头条，一天收入1287.96](https://mp.weixin.qq.com/s/NKRkjKrZK4PLgMDpWZCAHg )
 
-## [四、DeepSeek 编程](deepseek-code.md )
+## [四、DeepSeek 绘画](deepseek-craw.md )
 
+### 1. Janus Pro
+Janus Pro：DeepSeek 出品的全网首个（识图+文生图）二合一模型
+- 官网：[Janus Pro 7B - Free AI Image Generator & Multimodal Understanding | DeepSeek](https://januspro.org/ )
+- 开源地址：[deepseek-ai/Janus: Janus-Series](https://github.com/deepseek-ai/Janus ) 狙击之王，统一多模态理解和生成模型
+
+
+### 2. 绘画提示词辅助生成
+- [DeepSeek出图，太快了](https://mp.weixin.qq.com/s/iczAD3YcRjrXyxUIsDw7WQ )
+
+## [五、DeepSeek 编程](deepseek-code.md )
 
 ### [DeepSeek开源全家桶](https://github.com/deepseek-ai )
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1 ) 推理之王，比肩o1
@@ -72,11 +110,11 @@ DeepSeek的**开源策略**降低了AI开发门槛，让更多开发者和企业
 - [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot ) 😎丰富生态、🧩支持扩展、🦄多模态 - 大模型原生即时通信机器人平台 🤖 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书（feishu）/ Discord / OneBot 等消息平台 | 支持 OpenAI GPT、ChatGPT、DeepSeek、Dify、Claude、Gemini、Ollama、LM Studio、SiliconFlow、Qwen、Moonshot、ChatGLM 等 LLM 的机器人 / Agent | LLM-based instant messaging bots platform, supports Discord, WeChat, Lark, QQ platform, OpenAI ChatGPT, **DeepSeek**.
 
 ---
-### 🌟 满天都是小星星
+## 🌟 满天都是小星星
 
 [![Star History Chart](https://api.star-history.com/svg?repos=East196/awesome-deepseek&type=Date)](https://star-history.com/#East196/awesome-deepseek&Date)
 
-### 💞 感谢有你
+## 💞 感谢有你
 
 [![Contributors](https://contrib.rocks/image?repo=East196/awesome-deepseek)](https://github.com/East196/awesome-deepseek/graphs/contributors)
 
