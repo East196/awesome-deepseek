@@ -14,7 +14,7 @@
       - [免费资源](#免费资源)
       - [本地部署](#本地部署)
       - [三方集成](#三方集成)
-  - [二、DeepSeek 综合教程](#二deepseek-综合教程)
+  - [二、DeepSeek 综合](#二deepseek-综合)
   - [三、DeepSeek 写作](#三deepseek-写作)
     - [公众号](#公众号)
     - [小红书](#小红书)
@@ -60,9 +60,10 @@ DeepSeek的**开源策略**降低了AI开发门槛，让更多开发者和企业
 - [DeepSeek接入微信公众号小白保姆教程](https://zhuanlan.zhihu.com/p/20940256320 )
 
 
-## 二、DeepSeek 综合教程
+## 二、DeepSeek 综合
 - [DeepSeek 15天指导手册（从入门到精通）](https://cloud.tencent.com/developer/news/2145941 ) 入门级
 - [DeepSeek从入门到精通](<assets/DeepSeek从入门到精通_清华大学.pdf>) **清华大学出品，专业级解读**
+- [爆肝50小时，DeepSeek使用技巧，你收藏这一篇就够了！](https://www.53ai.com/news/tishicijiqiao/2025020128143.html )
 
 
 ## [三、DeepSeek 写作](deepseek-write.md)
@@ -74,6 +75,8 @@ DeepSeek的**开源策略**降低了AI开发门槛，让更多开发者和企业
 - [DeepSeek不好用？是你不会用！这20个超绝提示词，让你玩赚AI写作！](https://mp.weixin.qq.com/s/ar5_7flVCceG0QTl0uhS7w )
 
 ### 公众号
+[一篇文章说清楚，公众号博主怎么利用DeepSeek写出爆款文案（喂饭级教程）](https://zhuanlan.zhihu.com/p/22693340377 )
+[我做了个DeepSeek自动写作机器人！每天躺着发公众号真香-CSDN博客](https://blog.csdn.net/u014534808/article/details/145415301 )
 
 ### 小红书
 [小红书运营新攻略：比特浏览器版+DeepSeek，3步开启多账号自动发布模式](https://mp.weixin.qq.com/s/NqlfluNlmCjzcoFiuVFZBQ )
