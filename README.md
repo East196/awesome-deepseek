@@ -62,12 +62,13 @@ DeepSeek的**开源策略**降低了AI开发门槛，让更多开发者和企业
 - [deepseek-ai/DeepSeek-VL2: DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://github.com/deepseek-ai/DeepSeek-VL2 ) 视觉大模型
 
 ### DeepSeek 相关热门开源项目
-- [ollama/ollama: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.](https://github.com/ollama/ollama ) DeepSeek本地部署🔥
-- [xtekky/gpt4free: The official gpt4free repository](https://github.com/xtekky/gpt4free ) 🆓多种强大的语言模型集合 | o3 mini 和 deepseek r1
-- [huggingface/open-r1](https://github.com/huggingface/open-r1 ) huggingface 对 DeepSeek-R1 模型的完全开源复现。
-- [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero ) 对 DeepSeek R1-Zero 的简洁、精简、易于访问的复现
-- [unslothai/unsloth](https://github.com/unslothai/unsloth ) 微调 Llama 3.3、DeepSeek-R1 和推理大语言模型，速度提升 2 倍，内存减少 70%。
-- [Doriandarko/deepseek-engineer](https://github.com/Doriandarko/deepseek-engineer ) 一款强大的编码助手应用程序，通过与DeepSeek API集成来处理用户对话并生成结构化的JSON响应。通过直观的命令行界面，它可以读取本地文件内容，创建新文件，并实时对现有文件应用差异编辑。
+- [ollama/ollama: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.](https://github.com/ollama/ollama ) **DeepSeek本地部署🔥**
+- [xtekky/gpt4free: The official gpt4free repository](https://github.com/xtekky/gpt4free ) 🆓多种强大的语言模型集合 | o3 mini 和 **deepseek r1**
+- [huggingface/open-r1](https://github.com/huggingface/open-r1 ) huggingface 对 **DeepSeek-R1** 模型的完全开源复现。
+- [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero ) 对 **DeepSeek R1-Zero** 的简洁、精简、易于访问的复现
+- [unslothai/unsloth](https://github.com/unslothai/unsloth ) 微调 Llama 3.3、**DeepSeek-R1 **和推理大语言模型，速度提升 2 倍，内存减少 70%。
+- [Doriandarko/deepseek-engineer](https://github.com/Doriandarko/deepseek-engineer ) 一款强大的编码助手应用程序，通过与**DeepSeek API集成**来处理用户对话并生成结构化的JSON响应。通过直观的命令行界面，它可以读取本地文件内容，创建新文件，并实时对现有文件应用差异编辑。
+- [RockChinQ/LangBot](https://github.com/RockChinQ/LangBot ) 😎丰富生态、🧩支持扩展、🦄多模态 - 大模型原生即时通信机器人平台 🤖 | 适配 QQ / 微信（企业微信、个人微信）/ 飞书（feishu）/ Discord / OneBot 等消息平台 | 支持 OpenAI GPT、ChatGPT、DeepSeek、Dify、Claude、Gemini、Ollama、LM Studio、SiliconFlow、Qwen、Moonshot、ChatGLM 等 LLM 的机器人 / Agent | LLM-based instant messaging bots platform, supports Discord, WeChat, Lark, QQ platform, OpenAI ChatGPT, **DeepSeek**.
 
 ---
 ### 🌟 满天都是小星星
