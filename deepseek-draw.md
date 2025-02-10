@@ -1,7 +1,6 @@
 
 # 绘图
 ## AI绘画
-
 - [Stable Diffusion](https://github.com/Stability-AI/stablediffusion )
 
 

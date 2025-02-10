@@ -26,6 +26,9 @@ DeepSeek的**开源策略**降低了AI开发门槛，让更多开发者和企业
 - [Awesome Free Deepseek👍](https://github.com/East196/awesome-free-deepseek/ ) **普通人也能免费使用**的 DeepSeek 网站列表，持续更新。
 - [DeepSeek 实用集成](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md ) 将 DeepSeek 大模型能力轻松接入各类软件。**需要API Key，适用于技术人员。**
 
+## DeepSeek 综合教程
+- [DeepSeek从入门到精通_清华大学](<assets/DeepSeek从入门到精通_清华大学.pdf>)
+
 ## [DeepSeek 写作](deepseek-write.md)
 
 - 越越的 《deepseek 创富保姆级教程》
