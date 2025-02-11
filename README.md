@@ -21,7 +21,8 @@
     - [今日头条](#今日头条)
   - [四、DeepSeek 绘画](#四deepseek-绘画)
     - [1. Janus Pro](#1-janus-pro)
-    - [2. 绘画提示词辅助生成](#2-绘画提示词辅助生成)
+    - [2. AI绘画提示词辅助生成](#2-ai绘画提示词辅助生成)
+    - [3. AI视频提示词辅助生成](#3-ai视频提示词辅助生成)
   - [五、DeepSeek 编程](#五deepseek-编程)
     - [DeepSeek开源全家桶](#deepseek开源全家桶)
     - [DeepSeek 相关热门开源项目](#deepseek-相关热门开源项目)
@@ -91,9 +92,11 @@ Janus Pro：DeepSeek 出品的全网首个（识图+文生图）二合一模型
 - 官网：[Janus Pro 7B - Free AI Image Generator & Multimodal Understanding | DeepSeek](https://januspro.org/ )
 - 开源地址：[deepseek-ai/Janus: Janus-Series](https://github.com/deepseek-ai/Janus ) 狙击之王，统一多模态理解和生成模型
 
-
-### 2. 绘画提示词辅助生成
+### 2. AI绘画提示词辅助生成
 - [DeepSeek出图，太快了](https://mp.weixin.qq.com/s/iczAD3YcRjrXyxUIsDw7WQ )
+
+### 3. AI视频提示词辅助生成
+- [太简单了 deepseek+3个提示词 秒出上万的短剧大片](https://mp.weixin.qq.com/s/wbXYTh7OhFIMCYSNx0yqHA )
 
 ## [五、DeepSeek 编程](deepseek-code.md )
 
