@@ -60,13 +60,11 @@ DeepSeek的**开源策略**降低了AI开发门槛，让更多开发者和企业
 - [DeepSeek 实用集成](https://github.com/deepseek-ai/awesome-deepseek-integration/blob/main/README_cn.md ) 将 DeepSeek 大模型能力轻松接入各类软件。
 - [DeepSeek接入微信公众号小白保姆教程](https://zhuanlan.zhihu.com/p/20940256320 )
 
-
 ## 二、DeepSeek 综合
 - [DeepSeek 15天指导手册（从入门到精通）](https://cloud.tencent.com/developer/news/2145941 ) 入门级
-- [DeepSeek从入门到精通](<assets/DeepSeek从入门到精通_清华大学.pdf>) **清华大学出品，专业级解读**
 - [爆肝50小时，DeepSeek使用技巧，你收藏这一篇就够了！](https://www.53ai.com/news/tishicijiqiao/2025020128143.html )
 - [DeepSeek 全网资源最全合集，系统性学习看这篇就够了](https://mp.weixin.qq.com/s/MejFtS9NKdZEDibDhcTJXw ) 大佬 **云中江树** 的资料贴，从入门到眼瞎
-
+- [DeepSeek从入门到精通](https://pan.quark.cn/s/671f17dfd388 ) **清华大学出品，传媒视角专业级解读** [12345全集](https://pan.quark.cn/s/7ff8734ea66d )
 
 ## [三、DeepSeek 写作](deepseek-write.md)
 
