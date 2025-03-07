@@ -25,6 +25,7 @@
     - [3. AI视频提示词辅助生成](#3-ai视频提示词辅助生成)
   - [五、DeepSeek 编程](#五deepseek-编程)
     - [DeepSeek开源全家桶](#deepseek开源全家桶)
+  - [测评贴](#测评贴)
     - [DeepSeek 相关热门开源项目](#deepseek-相关热门开源项目)
   - [🌟 满天都是小星星](#-满天都是小星星)
   - [💞 感谢有你](#-感谢有你)
@@ -66,7 +67,7 @@ DeepSeek的**开源策略**降低了AI开发门槛，让更多开发者和企业
 - [DeepSeek从入门到精通](<assets/DeepSeek从入门到精通_清华大学.pdf>) **清华大学出品，专业级解读**
 - [爆肝50小时，DeepSeek使用技巧，你收藏这一篇就够了！](https://www.53ai.com/news/tishicijiqiao/2025020128143.html )
 - [DeepSeek 全网资源最全合集，系统性学习看这篇就够了](https://mp.weixin.qq.com/s/MejFtS9NKdZEDibDhcTJXw ) 大佬 **云中江树** 的资料贴，从入门到眼瞎
-
+- [【秋芝2046】DeepSeek资料大全](https://ccnk05wgo092.feishu.cn/wiki/Q52dwmohyi5dNAkUmMWcTFEfnLq ) **秋芝2046** 出品
 
 ## [三、DeepSeek 写作](deepseek-write.md)
 
@@ -106,6 +107,9 @@ Janus Pro：DeepSeek 出品的全网首个（识图+文生图）二合一模型
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3 ) 全面能打，对标4o
 - [deepseek-ai/Janus: Janus-Series](https://github.com/deepseek-ai/Janus ) 狙击之王，统一多模态理解和生成模型
 - [deepseek-ai/DeepSeek-VL2: DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding](https://github.com/deepseek-ai/DeepSeek-VL2 ) 视觉大模型
+
+## 测评贴
+- [四大顶尖模型测评【汇总】](https://ccnk05wgo092.feishu.cn/wiki/LxfdwFB1ai6sQ5krMErc42FznUc )
 
 ### DeepSeek 相关热门开源项目
 - [ollama/ollama: Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.](https://github.com/ollama/ollama ) **DeepSeek本地部署🔥**
